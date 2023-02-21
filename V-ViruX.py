@@ -24,7 +24,7 @@ def ud():
     print(' [2] EXIT')
     opt = input('\n   Choose option >>> ')
     if opt == '1':
-        os.system('xdg-open https://youtube.com/channel/UCG8CSxk8KQMZuVfRhCa6FBw')
+        os.system('xdg-open https://youtube.com/@ugly_man?feature=shares')
         FD()
         return None
     None('\n\x1b[1;31mEXIT\x1b[0;97m')
@@ -37,7 +37,7 @@ def FD():
     print(' [2] EXIT')
     opt = input('\n  \x1b[1;32m Choose option >>> ')
     if opt == '1':
-        os.system('xdg-open https://www.facebook.com/musa.khan.39545')
+        os.system('xdg-open https://www.facebook.com/arafatmahin310')
         o()
         return None
     None('\n\x1b[1;31mEXIT\x1b[0;97m')
